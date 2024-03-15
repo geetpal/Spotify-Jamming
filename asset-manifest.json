@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Spotify-Jamming/static/css/main.5d0af6f8.css",
+    "main.js": "/Spotify-Jamming/static/js/main.37fdbb20.js",
+    "static/js/453.dffa3980.chunk.js": "/Spotify-Jamming/static/js/453.dffa3980.chunk.js",
+    "index.html": "/Spotify-Jamming/index.html",
+    "static/media/search-icon.svg": "/Spotify-Jamming/static/media/search-icon.656ced82ee281f52cd6c8418f6165f5c.svg",
+    "main.5d0af6f8.css.map": "/Spotify-Jamming/static/css/main.5d0af6f8.css.map",
+    "main.37fdbb20.js.map": "/Spotify-Jamming/static/js/main.37fdbb20.js.map",
+    "453.dffa3980.chunk.js.map": "/Spotify-Jamming/static/js/453.dffa3980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0af6f8.css",
+    "static/js/main.37fdbb20.js"
+  ]
+}
