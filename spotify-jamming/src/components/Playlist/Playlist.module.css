@@ -1,0 +1,39 @@
+/* .PlaylistContainer {
+  border: 1px solid white;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #ffffff20;
+  height: 100%;
+} */
+
+.song {
+  padding-top: 4px;
+}
+
+.playlistNameInput {
+  font-size: 1.25em;
+  color: white;
+  border: 2px solid white;
+  background: transparent;
+  padding: 12px 4px;
+  margin: 10px 0;
+  width: 100%;
+  cursor: pointer; /* Add pointer cursor for better UX */
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #d3d3d380;
+  box-shadow: none;
+  min-width: 15em;
+}
+
+.btn {
+  color: black;
+  background-color: plum;
+  border-radius: 8em;
+  padding: 16px 40px;
+  cursor: pointer; /* Add pointer cursor for better UX */
+}
+
+.btn:hover {
+  background-color: #efabef;
+}

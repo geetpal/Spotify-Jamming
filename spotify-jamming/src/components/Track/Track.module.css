@@ -1,0 +1,31 @@
+/* .track {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1px 32px;
+  background-color: #008b8b20;
+  border-radius: 20px;
+} */
+
+.trackContainer {
+  padding: 12px;
+  background-color: #ffffff20;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.trackDetails {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+.actionBtn {
+  all: unset;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 1.5em;
+}
+.actionBtn:hover {
+  background-color: #ffffff20;
+}
