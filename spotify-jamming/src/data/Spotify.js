@@ -1,5 +1,5 @@
 const clientId = "7272e997d8ea4e26b1f844ebf87053fd";
-const redirectUri = "https://geetpal.github.io/Spotify-Jamming";
+const redirectUri = "https://geetpal.github.io/Spotify-Jamming/";
 
 let accessToken;
 let userId; // Spotify user id
